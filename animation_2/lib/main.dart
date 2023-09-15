@@ -1,4 +1,3 @@
-import 'dart:js_interop';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
